@@ -1,0 +1,14 @@
+.confirmed{
+	padding-top: 5px;
+	border-left: 10px solid #c9302c;
+}
+
+.recovered{
+	padding-top: 5px;
+	border-left: 10px solid #28a745;
+}
+
+.death {
+	padding-top: 5px;
+	border-left: 10px solid grey;
+}
