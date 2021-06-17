@@ -1,4 +1,4 @@
-# App Theo dõi thông tin số ca mắc Covid-19 theo từng quốc gia theo thời gian.
+# App Theo dõi thông tin số ca mắc Covid-19 từng quốc gia theo thời gian.
 Link demo: [https://linkk9.github.io/covid-tracker/](https://linkk9.github.io/covid-tracker/) \
 Công nghệ sử dụng: Reactjs, Ant-design chart.
 
